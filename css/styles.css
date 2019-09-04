@@ -1,0 +1,13 @@
+.container
+{
+}
+
+#pgpKeyField
+{
+    word-break: break-word;
+    overflow: auto;
+    resize: none;
+    text-align: justify;
+    font-family: 'Courier New', Courier, monospace;
+    width: 100%;
+}
